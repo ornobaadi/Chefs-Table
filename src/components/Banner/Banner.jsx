@@ -5,8 +5,8 @@ const Banner = () => {
                 <div className="text-3xl lg:text-5xl font-bold mt-10 lg:mt-0">Discover an exceptional cooking class tailored for you!</div>
                 <div className="text-sm">Welcome to our online chef shop! Discover exquisite dishes curated by top chefs. Indulge in culinary perfection, right at your fingertips</div>
                 <div className="flex gap-5 items-center">
-                    <button className="btn border-none bg-[#0BE58A]  rounded-full  text-black font-bold text-xl">Explore Now</button>
-                    <button className="btn bg-transparent text-white border-2 border-white rounded-full  text-xl font-bold">Our Feedback</button>
+                    <button className="btn border-none bg-[#0BE58A]  rounded-full  text-black font-bold text-md">Explore Now</button>
+                    <button className="btn bg-transparent text-white border-2 border-white rounded-full  text-md font-bold">Our Feedback</button>
                 </div>
             </div>
         </div>
